@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @giovmad
+- 👋 Hi, I’m Giovanni
 - 👀 I’m interested in food, health, exercise
 - 🌱 I’m currently learning vmware vsphere
 
